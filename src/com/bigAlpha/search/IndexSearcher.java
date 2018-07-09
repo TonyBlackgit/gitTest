@@ -1,3 +1,4 @@
+package com.bigAlpha.search;
 
 
 public interface IndexSearcher {
